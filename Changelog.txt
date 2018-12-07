@@ -1,0 +1,36 @@
+What's new :
+1. Titlebar and icon in contact page added.
+2. User manual added in program's folder.
+3. Program introduction on start page minor change.
+4. New icon and shortcut for user manual added.
+5. Empty line between "help" command added.
+6. User manual in the menu now available!
+
+Bug (fixed) :
+
+
+Known Bug :
+1. Print text file sometimes contain file encoding on the first line.
+2. (Extremely rare) Program doesn't exit when user input a "quit" command.
+
+* = Critical.
+
+NOT A BUG :
+1. If user input a weird string or interger then the program error, that is user error NOT US!
+2. Train goes on one-way ONLY! If you reverse a train which are not the right way,
+time will get stuck on the destination station instead. (User error, again.)
+3. When user change the program's file/folder name, this will cause an generic error.
+
+Proposed to add in the futher :
+1. AirportRailLink line expected to be added (Far futher).
+2. HuaTakae to Bangkok train expected to be added (Far futher).
+3. New line : WongwianYai <> MahaChai and MaeKlong <> BanLaem expected to be added
+(Far futher).
+
+* = Important.
+
+Feature removed :
+(None)
+
+For developer :
+

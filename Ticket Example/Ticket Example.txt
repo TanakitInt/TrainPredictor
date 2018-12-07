@@ -1,0 +1,18 @@
+﻿
+************************************ Ticket ************************************
+21-11-2017 19:03:24
+Station master : #
+Ticket seller : #
+
+Ticket serial number : 37E1
+Customer name : 
+
+Ticket printed at : Bangkok
+Train number : 379
+Stop at Bangkok? : YES
+Stop at PraChomKlao? : NO
+Expected delay = +0 (Early) minute(s)
+Will be arrived at : PraChomKlao 00.55
+Fare : 6 Baht
+
+************************** National Railway Service ***************************
