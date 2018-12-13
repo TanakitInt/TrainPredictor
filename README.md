@@ -23,7 +23,7 @@ Amita M.<br/>
 Traisak T.
 #
 **For serial.txt**<br/>
-If you wish to reset serial number, please rename it in serial.txt to 0.
+If you wish to reset serial number, please rename it in serial.txt to 0.<br/>
 PLEASE DO WITH NUMBERS ONLY! Otherwise, the error will appear!<br/>
 #
 If you wish to see a real fare table please go to program's installation folder<br/>
