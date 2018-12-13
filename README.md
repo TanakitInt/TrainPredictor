@@ -1,4 +1,8 @@
 
+**Original Release date : 8 December 2017
+Public Release date : 7 December 2018
+(1 Year anniversary)**
+#
 *You can directly install this program by clicking on*
 *"_Install" folder and download it.*
 #
