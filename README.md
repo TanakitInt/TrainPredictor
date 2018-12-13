@@ -12,14 +12,14 @@ e.g.
 >py -3 TrainPredictor.py
 #
 **Special thanks**<br/>
-Coder    : TanakitInt.
-Tester   : Korrawich B.
-Debugger : Warinthorn T.
-Adviser  : Nut C.
-Professor : 
-Sirion V.
-Training Assistance :
-Amita M.
+Coder    : TanakitInt.<br/>
+Tester   : Korrawich B.<br/>
+Debugger : Warinthorn T.<br/>
+Adviser  : Nut C.<br/>
+Professor : <br/>
+Sirion V.<br/>
+Training Assistance :<br/>
+Amita M.<br/>
 Traisak T.
 #
 **For serial.txt**<br/>
